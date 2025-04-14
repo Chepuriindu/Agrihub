@@ -1,0 +1,30 @@
+.heading{
+    background-color: green;
+    color: white;
+    text-align:center;
+    padding: 1%;
+    margin-top:auto;
+}
+.section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    padding: 20px;
+}
+.section img {
+    width: 550px;
+    height: auto;
+}
+.label {
+    font-size: 2em;
+    font-weight: bold;
+}
+.label-left {
+    text-align: left;
+    width: 200px;
+}
+.label-right {
+    text-align: right;
+    width: 200px;
+}
